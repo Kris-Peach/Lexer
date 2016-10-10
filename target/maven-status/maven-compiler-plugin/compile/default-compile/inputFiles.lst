@@ -1,0 +1,12 @@
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/Application.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/NumToken.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/RightBrackets.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/OpToken.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/Yytoken.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/LeftBrackets.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/ColonToken.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/KeywordToken.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/Semicolon.java
+/home/kristi/IdeaProjects/Lexer/target/generated-sources/jflex/Lexer/SimpleLexer.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/CommentToken.java
+/home/kristi/IdeaProjects/Lexer/src/main/java/Lexer/SimpleToken/VarToken.java

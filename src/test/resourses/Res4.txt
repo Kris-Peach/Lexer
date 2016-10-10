@@ -1,0 +1,1 @@
+KW_Read(0;0;3);Var("x";0;5;5);Semiolon(0;6;6);KW_While(0;8;12);LeftBracket(0;13;13);Var("x";0;15;15);Op(LessOrEq;0;17;18);Num(5;0;20;20);RightBracket(0;21;21);KW_Do(0;23;24);KW_Write(0;26;30);Var("y";0;32;32);Op(Assignment;0;34;35);Var("x";0;37;37);Op(Plus;0;38;38);Num(1;0;39;39);
